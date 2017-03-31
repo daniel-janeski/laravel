@@ -32,7 +32,7 @@ class Student {
                 $this->email = $email;
             }
         }
-}
+} 
     $student1 = new Student ("Emilija", "Talevska", ['Php', 'MySQLI', 'Javascript']);
 //    $student1->firstName = "Emilija";
 //    $student1->lastName = "Talevska";
